@@ -1,0 +1,3 @@
+export const UPDATE_MENU = 'UPDATE_MENU';
+export const SET_CURRENT_APP = 'SET_CURRENT_APP';
+export const UPDATE_SHARED_DATA = 'UPDATE_SHARED_DATA';
